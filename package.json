@@ -1,7 +1,6 @@
 {
 	"scripts": {
-		"dev": "nodemon .js",
-		"start": "node index.js"
+		"dev": "nodemon .js"
 	},
 	"dependencies": {
 		"discord-rpc": "^4.0.1"
