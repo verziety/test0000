@@ -40,7 +40,7 @@ discordClient.initialize()
 ```javascript
 {
  state: 'Some state',
- details: 'Test details'
+ details: 'Test details',
  largeImageKey: 'foo',
  largeImageText: 'foo image text',
  smallImageKey: 'bar',
