@@ -24,9 +24,9 @@ import { DiscordClient } from './module.js'
 const clientId = 'YOUR_CLIENT_ID'
 
 const activity = {
-	detail: 'Learning js',
-	largeImageKey: 'js', // Your key (u can find it on dev portal)
-	largeImageText: 'JavaScript', // Your text
+ detail: 'Learning js',
+ largeImageKey: 'js', // Your key (u can find it on dev portal)
+ largeImageText: 'JavaScript', // Your text
 }
 
 const discordClient = new DiscordClient(clientId, activity)
