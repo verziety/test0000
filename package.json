@@ -1,7 +1,4 @@
 {
-	"scripts": {
-		"dev": "nodemon .js"
-	},
 	"dependencies": {
 		"discord-rpc": "^4.0.1"
 	},
@@ -12,7 +9,6 @@
 	"name": "discord-rpc",
 	"version": "1.0.0",
 	"description": "My discord rpc.",
-	"main": "index.js",
 	"author": "webfryingpan",
 	"license": "ISC"
 }
